@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Where to find me:
-- [Linkedin] (https://www.linkedin.com/in/enric-ledo-muntal-00b29a22b/)
+-[Linkedin] (https://www.linkedin.com/in/enric-ledo-muntal-00b29a22b/)
