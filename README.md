@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ### Where to find me:
 - [Linkedin](https://www.linkedin.com/in/enric-ledo-muntal-00b29a22b/)
 ### Skills:
-Kotlin, Java, Spring Boot, MySQL
+Kotlin, Java, Spring Boot, MySQL, C++
 ### Contact me:
 enricledomuntal@gmail.com
