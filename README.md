@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Enric Ledo 👋
 
 <!--
 **EnricLedo/EnricLedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Where to find me:
--[Linkedin] (https://www.linkedin.com/in/enric-ledo-muntal-00b29a22b/)
+- [Linkedin](https://www.linkedin.com/in/enric-ledo-muntal-00b29a22b/)
+### Skills:
+Kotlin, Java, Spring Boot, MySQL
+### Contact me:
+enricledomuntal@gmail.com
