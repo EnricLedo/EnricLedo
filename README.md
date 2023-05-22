@@ -7,6 +7,6 @@ Kotlin, Java, Spring Boot, MySQL, C++, Hibernate, Unity, MongoDB, Android Studio
 
 ### Where to find me:
 - [Linkedin](https://www.linkedin.com/in/enric-ledo-muntal-00b29a22b/)
-
+- [Resume, curriculum vitae](Currículum Vitae Enric Ledo.pdf)
 ### Contact me:
 enricledomuntal@gmail.com
