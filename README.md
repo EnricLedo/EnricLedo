@@ -25,8 +25,8 @@
 - [Resume, curriculum vitae](CurriculumVitaeEnricLedo.pdf)
 
 ### Enterprise Resource Planning
-- [ERP Project Java Spring Boot](https://youtu.be/uLGS8K840Bw)
-
+- [ERP Project Java Spring Boot Cantina Del Copernic](https://youtu.be/uLGS8K840Bw)
+- [ERP Project Java Spring Boot Mr Motor Master](https://gitlab.com/ledo.muntal.enric/mrmotormaster)
 ### 3D Game Unity
 - [The finger hunter](https://github.com/EnricLedo/3D-Game-Unity---The-finger-hunter)
 
