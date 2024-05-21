@@ -33,10 +33,10 @@ enricledomuntal@gmail.com
 
 ## Projects
 #### Kotlin - Jetpack Compose
-- [Parkking]()
+- [Parkking](https://github.com/EnricLedo/ParkKing)
 #### Spring Boot - Enterprise Resource Planning
-- [Mr Motor Master](https://gitlab.com/ledo.muntal.enric/mrmotormaster)
-#### 3D Game Unity
+- [Mr Motor Master](https://github.com/EnricLedo/MrMotorMaster)
+#### Unity - 3D Game
 - [The finger hunter](https://github.com/EnricLedo/3D-Game-Unity---The-finger-hunter)
-#### Java
-- [Music Player JavaFX]()
+#### Java - JavaFX
+- [Music Player MP3](https://github.com/EnricLedo/MediaPlayerMP3JavaFX)
