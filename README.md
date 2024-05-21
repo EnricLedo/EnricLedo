@@ -1,5 +1,4 @@
-### Hi there I'm Enric Ledo 👋
-### My webpage:
+### Hi there I’m Enric Ledo 👋 Before exploring my GitHub profile, feel free to visit my personal website:
 <a href="https://enricledo.com">
   <span>enricledo.com</span>
 </a>
