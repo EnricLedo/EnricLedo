@@ -4,8 +4,9 @@
 </a>
 
 ### Technologies:
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-F39800?style=for-the-badge&logo=amazon-aws&labelColor=101010)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F3F7F?style=for-the-badge&logo=kotlin&labelColor=101010)
-![Jetpack_Compose](https://img.shields.io/badge/Jetpack%20Compose-34B96B?style=for-the-badge&logo=jetpackcompose&labelColor=101010)
+![Jetpack_Compose](https://img.shields.io/badge/Jetpack%20Compose-72b3cc?style=for-the-badge&logo=jetpackcompose&labelColor=101010)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&labelColor=101010)
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&labelColor=101010)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&labelColor=101010)
@@ -17,7 +18,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-F7D650?style=for-the-badge&logo=python&labelColor=101010)
 ![Docker](https://img.shields.io/badge/Docker%20Compose-1E60E2?style=for-the-badge&logo=docker&labelColor=101010)
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-F39800?style=for-the-badge&logo=amazon-aws&labelColor=101010)
 
 ### Where to find me:
 <a href="https://www.linkedin.com/in/enric-ledo-muntal-00b29a22b/">
