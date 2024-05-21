@@ -1,4 +1,4 @@
-### Hi there! I’m Enric Ledo 👋 Before exploring my GitHub profile, I recommend you take a look at my personal website:
+### Hi there! 👋 Before exploring my GitHub profile, I recommend you take a look at my personal website:
 <a href="https://enricledo.com">
   <span>enricledo.com</span>
 </a>
