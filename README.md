@@ -1,4 +1,4 @@
-### Hi there I’m Enric Ledo 👋 Before exploring my GitHub profile, feel free to visit my personal website:
+### Hi there! I’m Enric Ledo 👋 Before exploring my GitHub profile, I recommend you take a look at my personal website:
 <a href="https://enricledo.com">
   <span>enricledo.com</span>
 </a>
@@ -23,13 +23,17 @@
 <a href="https://www.linkedin.com/in/enric-ledo-muntal-00b29a22b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=101010" alt="LinkedIn">
 </a>
+<br>
+<a href="https://enricledo.com">
+  <span>enricledo.com</span>
+</a>
 
-- [Resume, curriculum vitae](CurriculumVitaeEnricLedo.pdf)
+### Projects
+#### Jetpack Compose
 
-### Enterprise Resource Planning
-- [ERP Project Java Spring Boot Cantina Del Copernic](https://youtu.be/uLGS8K840Bw)
+#### Spring Boot - Enterprise Resource Planning
 - [ERP Project Java Spring Boot Mr Motor Master](https://gitlab.com/ledo.muntal.enric/mrmotormaster)
-### 3D Game Unity
+#### 3D Game Unity
 - [The finger hunter](https://github.com/EnricLedo/3D-Game-Unity---The-finger-hunter)
 
 ### Contact me:
